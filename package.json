@@ -1,0 +1,19 @@
+{
+  "name": "movie-catalog",
+  "version": "1.0.0",
+  "description": "kwa",
+  "main": "index.js",
+  "scripts": {
+    "test": "run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vasyaruberoid/Movie-catalog.git"
+  },
+  "author": "Vasiliy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vasyaruberoid/Movie-catalog/issues"
+  },
+  "homepage": "https://github.com/Vasyaruberoid/Movie-catalog#readme"
+}
